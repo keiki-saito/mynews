@@ -20,7 +20,7 @@
                             @endforeach
                         </ul>
                     @endif
-                    
+                    @csrf
                    <div class="form-group row">
                         <label class="col-md-2">氏名</label>
                         <div class="col-md-10">
